@@ -4,7 +4,7 @@ A Pokémon-style role-playing game that runs entirely in the terminal, written i
 
 Built for COM S 3270 at Iowa State University, Spring 2026.
 
-![World map](screenshots/map.png)
+![World map](pokemon-screenshots/map.png)
 
 ## Features
 
@@ -22,10 +22,10 @@ C++, C, ncurses, Make
 ## Screenshots
 
 **Battle**
-![Battle screen](screenshots/battle.png)
+![Battle screen](pokemon-screenshots/battle.png)
 
 **Trainer list**
-![Trainer list](screenshots/trainers.png)
+![Trainer list](pokemon-screenshots/trainers.png)
 
 ## Running It
 
